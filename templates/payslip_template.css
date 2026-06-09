@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    color: #111;
+    font-family: Arial;
+}
+
+.header {
+    color: #ff7a00;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card {
+    border: 1px solid #ff7a00;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.section-title {
+    color: #ff7a00;
+    font-weight: bold;
+    margin-top: 10px;
+}
